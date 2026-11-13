@@ -1,29 +1,24 @@
-# Sanika Kolte — Portfolio Website
+# Sanika Kolte — Graphic Designer & Visual Creator
 
-A responsive, static personal portfolio website built from the content and selected design assets in Sanika Kolte's portfolio PDF.
+A responsive personal portfolio showcasing graphic design, visual content creation, and the Sovara Jewels branding project.
 
 ## Run locally
 
-Open `index.html` in a browser. No build tools or dependencies are required.
+Open `index.html` in any modern browser. No build tools or dependencies are required. Google Fonts are loaded online; fallback fonts are included.
+
+## Features
+
+- Responsive layouts for desktop, tablet, and mobile
+- Sticky navigation with a mobile menu
+- Smooth anchor navigation and scroll-reveal effects
+- Clickable jewellery gallery with accessible lightbox and Escape-to-close
+- Direct social links
+- Lightweight static HTML, CSS, and JavaScript
 
 ## Publish with GitHub Pages
 
-1. Create a new **public** GitHub repository named `sanika-kolte-portfolio`.
-2. Upload all files and folders in this project (keep the `assets` folder in the same location as `index.html`).
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch **main**, folder **/(root)**, then click **Save**.
-6. Wait for GitHub Pages to finish publishing. Your site URL will be shown in the Pages section and will look like `https://YOUR-USERNAME.github.io/sanika-kolte-portfolio/`.
+Repository: https://github.com/sanikakolte/sanika-kolte-portfolio
 
-## Personalise before publishing
+In GitHub, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, then Save. The site will be available at:
 
-- Add a professional email address and any other contact links if desired.
-- Replace the Instagram link if you want a personal profile instead of the Sovara Jewels project page.
-- Review the education wording and project images before making the repository public.
-
-## Files
-
-- `index.html` — page content and sections
-- `style.css` — responsive styling
-- `script.js` — mobile navigation
-- `assets/` — images extracted from the supplied portfolio PDF
+https://sanikakolte.github.io/sanika-kolte-portfolio/
